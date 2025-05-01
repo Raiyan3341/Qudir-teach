@@ -1,4 +1,5 @@
 name = input("name:")
 print(name)
-x = 10
-print(x)
+x = 40
+y = 80
+print(x,y)
